@@ -1,0 +1,44 @@
+a {
+  text-decoration: none;
+  color: var(--dark);
+}
+
+.content {
+  background-color: var(--whitecolor);
+  padding-bottom: 60px;
+}
+
+.carousel {
+  height: 400px;
+}
+
+.games {
+  padding: 0 24px;
+}
+
+.categories {
+  padding: 20px 0;
+}
+
+.services {
+}
+
+.service_item {
+  width: 160px;
+  height: 160px;
+}
+
+.service_item ~ .service_item {
+  margin-left: 20px;
+}
+
+.service_item img {
+  border-radius: 30px;
+  width: 100%;
+  height: 100%;
+}
+
+.service_item p {
+  font-size: 14px;
+  text-align: center;
+}

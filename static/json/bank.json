@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Ngân hàng TMCP An Bình",
+        "code": "ABB",
+        "img": "../images/banks/abb.png"
+    },
+    {
+        "name": "Ngân hàng Nông nghiệp và Phát triển Nông thôn (Agribank)",
+        "code": "AGB",
+        "img": "../images/banks/agb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Bắc Á",
+        "code": "BAB",
+        "img": "../images/banks/bab.png"
+    },
+    {
+        "name": "Ngân hàng Đầu tư và Phát triển Việt Nam (BIDV)",
+        "code": "BIDV",
+        "img": "../images/banks/bidv.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Đông Á (DongA Bank)",
+        "code": "DAB",
+        "img": "../images/banks/dab.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Bản Việt",
+        "code": "GDB",
+        "img": "../images/banks/exb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Phát Triển Nhà TP.Hồ Chí Minh (HDBank)",
+        "code": "HDB",
+        "img": "../images/banks/hdb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Công Thương (VietinBank)",
+        "code": "ICB",
+        "img": "../images/banks/icb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Quân Đội (MB)",
+        "code": "MB",
+        "img": "../images/banks/mb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Hàng Hải (MariTimeBank)",
+        "code": "MSB",
+        "img": "../images/banks/msb.png"
+    },
+    {
+        "name": "Ngân hàng Nam Á",
+        "code": "NAB",
+        "img": "../images/banks/nab.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Quốc dân (NCB )",
+        "code": "NCB",
+        "img": "../images/banks/nvb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Đại Dương (OceanBank)",
+        "code": "OJB",
+        "img": "../images/banks/ojb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Đại chúng Việt Nam (PVcomBank)",
+        "code": "PVCOMBANK",
+        "img": "../images/banks/pvcombank.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Đông Nam Á",
+        "code": "SEA",
+        "img": "../images/banks/sea.png"
+    },
+    {
+        "name": "Ngân hàng Thương Mại Cổ Phần Sài Gòn - SCB",
+        "code": "SGCB",
+        "img": "../images/banks/sgcb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Sài Gòn - Hà Nội (SHB)",
+        "code": "SHB",
+        "img": "../images/banks/shb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank)",
+        "code": "STB",
+        "img": "../images/banks/stb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Kỹ Thương (Techcombank)",
+        "code": "TCB",
+        "img": "../images/banks/tcb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Tiên Phong (TienPhong Bank)",
+        "code": "TPB",
+        "img": "../images/banks/tpb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Việt Á (VietA Bank)",
+        "code": "VAB",
+        "img": "../images/banks/vab.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Ngoại Thương Việt Nam (Vietcombank)",
+        "code": "VCB",
+        "img": "../images/banks/vcb.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Quốc tế (VIB)",
+        "code": "VIB",
+        "img": "../images/banks/vib.png"
+    },
+    {
+        "name": "Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank)",
+        "code": "VPB",
+        "img": "../images/banks/vpb.png"
+    }
+]
