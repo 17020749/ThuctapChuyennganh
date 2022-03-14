@@ -18,7 +18,6 @@ export default {
       { rel: 'stylesheet', type: 'text/css', href: '/sass/slick.css' },
       { rel: 'stylesheet', type: 'text/css', href: '/sass/slick-theme.css.css' },
       { rel: 'stylesheet', type: 'text/css', href: '/sass/css/mainid.css' },
-      { rel: 'stylesheet', type: 'text/css', href: '/sass/css/app.css' },
       { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css' }
     ],
     script: [
